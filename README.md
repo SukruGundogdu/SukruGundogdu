@@ -1,7 +1,7 @@
 # <b> Hi there, I'm Şükrü </b> 👋
 Frontend Developer
 
-
+- 🌱 I’m currently learning <b> Node.JS & Express, MongoDB, Django </b>
 
 <!--
 **SukruGundogdu/SukruGundogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Frontend Developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
