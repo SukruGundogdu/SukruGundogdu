@@ -6,7 +6,7 @@ Frontend Developer
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/SukruGundogdu)](link) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/SukruGundogdu)](https://github.com/SukruGundogdu) 
 
 <!--
 **SukruGundogdu/SukruGundogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
