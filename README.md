@@ -1,5 +1,5 @@
 # <b> Hi there, I'm Şükrü </b> 👋
-        Frontend Developer
+       # Frontend Developer
 
 - 🔭 I finished <b> Agile, Scrum, Kanban, Basic Linux, Git, Github, Basic SQL, Python, Jira, HTML, CSS, Javascript, React Native, React </b> course. I am developing projects.
 - 🌱 I’m currently learning <b> Node.JS & Express, MongoDB, Django </b>
