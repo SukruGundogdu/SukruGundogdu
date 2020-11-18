@@ -1,6 +1,7 @@
 # <b> Hi there, I'm Şükrü </b> 👋
-Frontend Developer
+        Frontend Developer
 
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <b> Node.JS & Express, MongoDB, Django </b>
 
 <!--
@@ -8,7 +9,7 @@ Frontend Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
