@@ -1,7 +1,7 @@
 # <b> Hi there, I'm Şükrü </b> 👋
         Frontend Developer
 
-- 🔭 I’m currently working on ...
+- 🔭 I finished <b> Agile, Scrum, Kanban, Linux Essentials, Git, Github, SQL Basic Python, Atlassian Jira, HTML, CSS, Javascript, React Native, React </b> course. I am developing projects.
 - 🌱 I’m currently learning <b> Node.JS & Express, MongoDB, Django </b>
 
 <!--
