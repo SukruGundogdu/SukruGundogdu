@@ -1,4 +1,4 @@
-Hi there, I'm Şükrü 👋
+<b>Hi there, I'm Şükrü </b> 👋
 
 
 
