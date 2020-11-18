@@ -1,4 +1,5 @@
 # <b> Hi there, I'm Şükrü </b> 👋
+Frontend Developer
 
 
 
